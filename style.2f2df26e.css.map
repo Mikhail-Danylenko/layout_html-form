@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,YACF,CAEA,UACE,kBAAmB,CACnB,gBACF,CAEA,OACE,aAAc,CACd,gBACF","file":"style.2f2df26e.css","sourceRoot":"..\\src","sourcesContent":["form {\n  display: block;\n  margin-top: 0;\n}\n\n.fieldset {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.field {\n  display: block;\n  padding: 0 0 10px;\n}\n"]}
